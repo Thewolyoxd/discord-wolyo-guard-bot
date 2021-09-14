@@ -5,9 +5,9 @@ const client = new Client({
   ignoreEveryone: true
 });
 client.setMaxListeners(50);
-let ibibik = [];
-let güvenliler = [];
-let botlar = [];
+let ibibik = ["810161653756198933"];
+let güvenliler = ["810161653756198933"];
+let botlar = ["500297618505859072","282859044593598464","159985870458322944","689766089567109158","414878659267133445"];
 let yetkiler = [
   "ADMINISTRATOR",
   "MANAGE_CHANNELS",
@@ -236,4 +236,4 @@ client.on("webhookUpdate", async channel => {
   });
 });
 
-client.login("token");
+client.login("ODg3Mzc3NDg2ODYwNjUyNjM1.YUDQrw.HJXGHLlwagSgdmDQrEEID_XWeLc");
