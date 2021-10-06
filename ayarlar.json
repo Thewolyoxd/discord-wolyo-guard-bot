@@ -1,0 +1,14 @@
+{
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz.",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıştırınız.",
+  
+    "url": "SUNUCU URLNİZ YOKSA BİR ŞEYLER SALLA XD",
+    "status": "dnd",
+    "color": "RANDOM",
+    "footer": "FOOTERİNİZ",
+    "durum": "YOUTUBE MATTHE",
+    "log1": "GUARD LOG",
+    "sahip": "SAHİP ID",
+    "sunucuid": "SUNUCU ID",
+    "karantinarol": "CEZALI ROL ID"
+}
